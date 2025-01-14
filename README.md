@@ -1,3 +1,10 @@
+** REPOSITORY **
+https://github.com/HenriqueGuima/Insurance-Risk-Assessment
+
+****************
+
+
+
 Insurance Risk Assessment using Machine Learning
 Overview
 This project utilizes machine learning techniques to classify insurance customers into high-risk and low-risk categories. By analyzing customer data, the model predicts which customers are more likely to make claims or commit fraud, helping insurance companies make informed decisions.
