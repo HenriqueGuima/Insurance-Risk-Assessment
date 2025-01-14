@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  scraper:
+    build: .
+    container_name: insurance-risk-assessment
+    volumes:
+      - ./output:/app/output
+    command: python download_dataset.py

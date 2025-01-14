@@ -1,0 +1,12 @@
+# Local Docker-related files
+*.dockerfile
+docker-compose.override.yml
+
+# Docker image and container metadata
+**/.dockerignore
+
+# CSV files
+*.csv
+
+# Model files
+*.pkl
